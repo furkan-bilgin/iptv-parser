@@ -1,0 +1,7 @@
+config.json
+.venv
+.vscode
+.other
+*.m3u
+guide.xml
+*.bash
