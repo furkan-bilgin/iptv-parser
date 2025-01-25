@@ -30,7 +30,9 @@ This script allows you to fetch remote M3U playlists, parse them, and replace pl
     Example:
     ```
     #EXTM3U
+    #EXTINF:-1, Channel 2
     {fetch_from:remote1:Channel 1}
+    #EXTINF:-1, Channel 2
     {fetch_from:remote2:Channel 2}
     ```
 
